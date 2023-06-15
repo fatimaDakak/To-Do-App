@@ -1,5 +1,6 @@
 # todo-app
-
+## Description
+A simple to-app using vue.js to add a task,update a task,delete a task or change its status based on the progress.
 ## Project setup
 ```
 npm install
