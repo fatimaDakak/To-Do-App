@@ -25,4 +25,4 @@ npm run lint
 See [Configuration Reference](https://cli.vuejs.org/config/).
 
 ###Demo
-https://github.com/fatimaDakak/To-Do-App/blob/main/todo-app_XUqZcGS9.mp4
+https://github.com/fatimaDakak/To-Do-App/todo-app_XUqZcGS9.mp4
